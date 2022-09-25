@@ -4,7 +4,7 @@ import './Header.css';
 
 function Header(){
     return(
-        <nav>
+        <nav id='header'>
             <h1>Derecho virtual</h1>
             <ul>
                 <li class="dropdown">
