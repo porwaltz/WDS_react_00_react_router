@@ -1,0 +1,20 @@
+#BitacoraDelInvestigador {
+    --annotation-yellow: #fee9ae;
+}
+#BitacoraDelInvestigador section p{
+    text-align: left;
+}
+.link, .link:hover, .link:focus, .link:visited{
+    color: #2862eb ;
+}
+
+.titulo-bitacora {
+    text-align: left;
+}
+.annotation {
+    background-color: var(--annotation-yellow);
+}
+
+.bold {
+    font-weight: bold;
+}

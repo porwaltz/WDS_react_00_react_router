@@ -6,7 +6,7 @@ import { faBook } from '@fortawesome/free-solid-svg-icons'
 
 function NuevosLenguajesJuridicos(){
     return (
-        <article>
+        <article id='NuevosLenguajesJuridicos'>
             <h2>Nuevos lenguajes jurídicos</h2>
             <h3>¿Cómo y por qué enseñar Derecho -más allá del método de estudio de casos-?</h3>
             <section>
@@ -22,12 +22,12 @@ function NuevosLenguajesJuridicos(){
                 <h3>
                     2.- Presentación de la experiencia:  
                 </h3>
-                <iframe width="960" height="540" 
-                src="https://www.youtube.com/embed/_gWfFEuert8" 
-                title="YouTube video player" frameborder="0" 
-                class="video"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                allowfullscreen></iframe>
+                <div class="video-container">
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/_gWfFEuert8" 
+                    title="Nuevos Lenguajes Juridicos"
+                    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    class="video" allowfullscreen></iframe>
+                </div>
                 <p class="text-light">-Video con síntesis (7.54min.), compartible por medios digitales.</p>
                 <p class="text-light">-Destinatarixs: cuerpo docente.</p>
                 <p class="text-light">-Realización: Sandra Wierzba, Abogada y Prof. Titular Obligaciones Civiles y Comerciales, FDer.-UBA (Idea y desarrollo conceptual); Martina Fumiere, -Abogada y Ayudante de Segunda, Obligaciones Civ. Y Com. FDer.-UBA (diseño del recurso y concepción estética), Andrea C. Fernández, Traductora y Prof. De Lecto-comprensión en lengua extranjera (revisión y corrección).</p>
@@ -58,5 +58,5 @@ function NuevosLenguajesJuridicos(){
 
 
 
-export default NuevosLenguajesJuridicos
+export default NuevosLenguajesJuridicos;
 
