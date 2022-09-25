@@ -3,7 +3,7 @@ article{
     /* font-family:'Calibri'; */
     opacity: 0;
     animation: fadeInUp 1s ease 0.4s 1 normal forwards;
-    background-color: white;
+    /* background-color: #dddddd; */
     color: rgb(32, 32, 32);
     width: 90%;
     margin: auto;
