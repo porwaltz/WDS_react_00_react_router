@@ -1,5 +1,5 @@
 import React from 'react'
-import './NuevosLenguajesJuridicos.css'
+import './NuevosLenguajesJuridicos.scss'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBook } from '@fortawesome/free-solid-svg-icons'
 

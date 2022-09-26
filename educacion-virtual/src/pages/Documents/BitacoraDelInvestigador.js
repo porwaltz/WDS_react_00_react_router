@@ -1,5 +1,5 @@
 import React from 'react'
-import './BitacoraDelInvestigador.css'
+import './BitacoraDelInvestigador.scss'
 
 
 function BitacoraDelInvestigador(){

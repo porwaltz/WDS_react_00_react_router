@@ -1,0 +1,45 @@
+#BitacoraDelInvestigador {
+
+opacity: 0;
+animation: fadeInUp 1s ease 0.4s 1 normal forwards;
+background-color: #ffffff;
+color: rgb(32, 32, 32);
+width: 70%;
+margin: 2em auto;
+padding: 3em;
+box-shadow: 0 0 10px #bbbbbb;
+
+section{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    padding: 0 2em;
+}
+//VARS
+$annotation-yellow: #fee9ae;
+
+section {
+    p{
+        margin: 0.25em 3em;
+        text-align: justify;
+    }
+    h2{
+        margin: 0.5em 3em 0 3em;
+    }
+}
+.link, .link:hover, .link:focus, .link:visited{
+    color: #2862eb ;
+}
+
+.titulo-bitacora {
+    text-align: left;
+}
+.annotation {
+    background-color: var(--annotation-yellow);
+}
+
+.bold {
+    font-weight: bold;
+}
+    
+}

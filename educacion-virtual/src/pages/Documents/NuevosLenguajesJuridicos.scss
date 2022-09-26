@@ -1,20 +1,24 @@
+#NuevosLenguajesJuridicos{
+    
+// font-family:'Calibri'; 
+opacity: 0;
+animation: fadeInUp 1s ease 0.4s 1 normal forwards;
+background-color: #ffffff;
+color: rgb(32, 32, 32);
+width: 70%;
+margin: 2em auto;
+padding: 3em;
+box-shadow: 0 0 10px #bbbbbb;
 
-article{
-    /* font-family:'Calibri'; */
-    opacity: 0;
-    animation: fadeInUp 1s ease 0.4s 1 normal forwards;
-    background-color: #ffffff;
-    color: rgb(32, 32, 32);
-    width: 70%;
-    margin: 2em auto;
-    padding: 3em;
-    box-shadow: 0 0 10px #bbbbbb;
-}
 section{
     display: flex;
     flex-direction: column;
     justify-content: center;
     padding: 0 2em;
+
+    h3{
+        text-align: justify;
+    }
 }
 h2{
     color: rgb(32, 32, 32);
@@ -28,13 +32,14 @@ h3{
     font-size: large;
     margin: .4em;
     margin-top: 1.5em;
+    padding: 0 2em;
     text-align: center;
     color: rgb(32, 32, 32);
     text-decoration-line: underline;
     font-weight: bold;
 }
 p{
-    text-align: center;
+    text-align: justify;
     margin: .2em;
     color: rgb(32, 32, 32);
 }
@@ -61,15 +66,10 @@ p{
     font-size: small;
 }
 
+}
+
 /*ANIMATIONS*/
 @keyframes fadeInUp {
     0%      { opacity: 0; transform: translate(0,20px); }
     100%    { opacity: 1; transform: translate(0,0); }
-}
-
-/*MEDIA QUERIES*/
-@media (max-width: 1400px) {
-    .video{
-
-    }
 }
