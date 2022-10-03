@@ -3,7 +3,7 @@ import './Footer.scss'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faFacebook } from '@fortawesome/free-brands-svg-icons'
 
-function Footer(){
+export default function Footer(){
     return (
         <footer>
             <div class="logo"></div>
@@ -14,5 +14,3 @@ function Footer(){
         </footer>
     )
 }
-
-export default Footer

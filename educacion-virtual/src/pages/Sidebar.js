@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from "react-router-dom";
 import './Sidebar.scss';
 
-function Sidebar(){
+export default function Sidebar(){
     return(
         <aside class="sidebar">
             <nav class="nav">
@@ -16,4 +16,3 @@ function Sidebar(){
         </aside>
     )}
 
-export default Sidebar;

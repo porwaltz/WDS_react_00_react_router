@@ -1,10 +1,11 @@
 import React from 'react'
+import './Documents.scss'
 import './NuevosLenguajesJuridicos.scss'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faBook } from '@fortawesome/free-solid-svg-icons'
 
 
-function NuevosLenguajesJuridicos(){
+export default function NuevosLenguajesJuridicos(){
     return (
         <article id='NuevosLenguajesJuridicos'>
             <h2>Nuevos lenguajes jurídicos</h2>
@@ -58,5 +59,4 @@ function NuevosLenguajesJuridicos(){
 
 
 
-export default NuevosLenguajesJuridicos;
 

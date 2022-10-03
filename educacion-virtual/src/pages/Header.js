@@ -1,35 +1,36 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 import './Header.scss';
 
 
-function Header(){
+export default function Header(){
     return(
         <nav id='header'>
-            <h1>Derecho virtual</h1>
+            <div class="image-container">
+                <img src={require('./img/banner-antique.png')} alt="banner"></img>
+            </div>
             <ul>
                 <li class="dropdown">
-                    <button class="dropbtn">Para estudiantes</button>
+                    <button class="dropbtn">Escritura académica y lenguaje claro</button>
                     <div class="dropdown-content">
-                        <a href="/#">Como escribir</a>
-                        <a href="/#">Como investigar</a>
+                        <a href="/#">Acerca de esta sección</a>
+                        <a href="/#">Cómo hacer una monografia</a>
+                        <Link to="/comoEvitarElPlagio">Cómo evitar el plagio</Link>
                     </div>
                 </li>
                 <li class="dropdown">
-                    <button class="dropbtn">Para docentes</button>
+                    <button class="dropbtn">Cómo investigar</button>
                     <div class="dropdown-content">
-                        <a href="/#">Como enseñar a investigar</a>
+                        <a href="/#">Acerca de esta seccion</a>
+                        <a href="/#">Investigación para estudiantes</a>
+                        <Link to="/bitacoraDelInvestigador">Bitácora del investigador</Link>
                     </div>
                 </li>
                 <li class="dropdown">
-                    <button class="dropbtn">Extras</button>
-                    <div class="dropdown-content">
-                        <a href="/#">Lorem ipsum</a>
-                        <a href="/#">Lorem ipsum</a>
-                    </div>
+                    <button class="dropbtn"><Link to="/nuevosLenguajesJuridicos">Cómo y por qué enseñar Derecho</Link></button>
                 </li>
             </ul>
         </nav>
     )
 }
 
-export default Header;

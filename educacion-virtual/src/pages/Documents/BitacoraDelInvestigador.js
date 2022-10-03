@@ -1,8 +1,9 @@
 import React from 'react'
+import './Documents.scss'
 import './BitacoraDelInvestigador.scss'
 
 
-function BitacoraDelInvestigador(){
+export default function BitacoraDelInvestigador(){
     return (
         <article id='BitacoraDelInvestigador'>
             <section>
@@ -42,4 +43,3 @@ function BitacoraDelInvestigador(){
         </article>
     )}
 
-export default BitacoraDelInvestigador;

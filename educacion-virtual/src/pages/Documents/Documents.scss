@@ -1,0 +1,27 @@
+.document{
+    opacity: 0;
+    animation: fadeInUp 1s ease 0.4s 1 normal forwards;
+    background-color: #ffffff;
+    color: rgb(32, 32, 32);
+    width: 70%;
+    margin: 2em auto;
+    padding: 3em;
+    box-shadow: 0 0 10px #bbbbbb;
+    text-align: justify;
+
+    .video-container {
+        position: relative;
+        width: 100%;
+        height: 0;
+        padding-bottom: 56.25%;
+        margin: 1em auto;
+    }
+    .video {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+    }
+
+}

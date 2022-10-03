@@ -3,17 +3,21 @@ import React from 'react';
 import Header from './pages/Header'
 import Footer from './pages/Footer'
 import Sidebar from './pages/Sidebar'
+import Home from './pages/Documents/Home'
 import NuevosLenguajesJuridicos from './pages/Documents/NuevosLenguajesJuridicos';
 import BitacoraDelInvestigador from './pages/Documents/BitacoraDelInvestigador';
+import ComoEvitarElPlagio from './pages/Documents/ComoEvitarElPlagio';
 import { Routes, Route } from "react-router-dom";
 
-function App() {
+export default function App() {
     return (
         <>
             <Header />
             <Sidebar />
             <Routes>
-                <Route path="/" element={<NuevosLenguajesJuridicos />} />
+                <Route path="/" element={<Home />} />
+                <Route path="comoEvitarElPlagio" element={<ComoEvitarElPlagio />} />
+                <Route path="nuevosLenguajesJuridicos" element={<NuevosLenguajesJuridicos />} />
                 <Route path="bitacoraDelInvestigador" element={<BitacoraDelInvestigador />} />
             </Routes>
             <Footer />
@@ -22,4 +26,4 @@ function App() {
     )
 }
 
-export default App;
+
