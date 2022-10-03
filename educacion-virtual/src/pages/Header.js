@@ -21,7 +21,7 @@ export default function Header(){
                 <li class="dropdown">
                     <button class="dropbtn">Cómo investigar</button>
                     <div class="dropdown-content">
-                        <a href="/#">Acerca de esta seccion</a>
+                        <Link to="/comoInvestigar">Acerca de esta seccion</Link>
                         <a href="/#">Investigación para estudiantes</a>
                         <Link to="/bitacoraDelInvestigador">Bitácora del investigador</Link>
                     </div>
