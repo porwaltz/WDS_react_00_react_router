@@ -13,8 +13,8 @@ export default function Header(){
                 <li class="dropdown">
                     <button class="dropbtn">Escritura académica y lenguaje claro</button>
                     <div class="dropdown-content">
-                        <a href="/#">Acerca de esta sección</a>
-                        <a href="/#">Cómo hacer una monografia</a>
+                        <Link to="/produccionDeMateriales">Acerca de esta sección</Link>
+                        <Link to="/comoHacerUnaMonografia">Cómo hacer una monografia</Link>
                         <Link to="/comoEvitarElPlagio">Cómo evitar el plagio</Link>
                     </div>
                 </li>
@@ -22,7 +22,7 @@ export default function Header(){
                     <button class="dropbtn">Cómo investigar</button>
                     <div class="dropdown-content">
                         <Link to="/comoInvestigar">Acerca de esta seccion</Link>
-                        <a href="/#">Investigación para estudiantes</a>
+                        <Link to="/investigacionParaEstudiantes">Investigación para estudiantes</Link>
                         <Link to="/bitacoraDelInvestigador">Bitácora del investigador</Link>
                     </div>
                 </li>

@@ -16,11 +16,12 @@
     .subtitle{
         margin: 1em;
     }
-    h1{
+    h1, h2, h3{
         font-weight: normal;
         text-align: center;
         margin: 0.4em;
     }
+    
 
     .bold {
         font-weight: 500;
@@ -34,6 +35,12 @@
     .aclaration{
         font-size: medium;
         margin-bottom: 5em;
+    }
+    .text-left{
+        text-align: left;
+    }
+    .source{
+        font-size: medium;
     }
 
     .video-container {
