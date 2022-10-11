@@ -21,7 +21,7 @@ export default function App() {
             <Sidebar />
             <Routes>
                 <Route path="/" element={< Home/>} />
-                <Route path="/ProduccionDeMateriales" element={< ProduccionDeMateriales/>} />
+                <Route path="/produccionDeMateriales" element={< ProduccionDeMateriales/>} />
                 <Route path="comoHacerUnaMonografia" element={<ComoHacerUnaMonografia />} />
                 <Route path="comoHacerUnaMonografia" element={<ComoHacerUnaMonografia />} />
                 <Route path="comoEvitarElPlagio" element={<ComoEvitarElPlagio />} />

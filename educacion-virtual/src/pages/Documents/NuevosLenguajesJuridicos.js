@@ -24,7 +24,7 @@ export default function NuevosLenguajesJuridicos(){
                     2.- Presentación de la experiencia:  
                 </h3>
                 <div class="video-container">
-                    <iframe width="560" height="315" src="https://www.youtube.com/embed/_gWfFEuert8" 
+                    <iframe width="560" height="315" src="https://drive.google.com/file/d/1i5y35H__CtA1Y4j9EvsYn2sclhDZt4-8/preview" 
                     title="Nuevos Lenguajes Juridicos"
                     frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                     class="video" allowfullscreen></iframe>

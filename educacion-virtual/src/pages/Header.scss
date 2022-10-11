@@ -11,7 +11,7 @@ nav{
     justify-content: center;
     align-items: baseline;
     background-color: teal;
-    color: antiquewhite !important;
+    color: white !important;
     animation: fadeIn 0.5s;
 }
 
@@ -36,7 +36,7 @@ h1{
 ul{
     flex-grow: 2;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(4, 1fr);
     align-items: baseline;
 }
 
@@ -47,12 +47,12 @@ li{
 #header a, #header a:hover, #header a:focus, #header a:active, #header a:link {
     background-color: teal;
     text-decoration: none;
-    color: antiquewhite;
+    color: white;
 }
 
 .dropbtn {
     background-color: teal;
-    color: antiquewhite;
+    color: white;
     padding: 16px;
     width: 100%;
     font-size: 16px;

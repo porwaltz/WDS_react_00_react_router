@@ -7,11 +7,11 @@ export default function Header(){
     return(
         <nav id='header'>
             <div class="image-container">
-                <img src={require('./img/banner-antique.png')} alt="banner"></img>
+                <img src={require('./img/banner-blanco.png')} alt="banner"></img>
             </div>
             <ul>
                 <li class="dropdown">
-                    <button class="dropbtn">Escritura académica y lenguaje claro</button>
+                    <button class="dropbtn">Cómo escribir textos académicos</button>
                     <div class="dropdown-content">
                         <Link to="/produccionDeMateriales">Acerca de esta sección</Link>
                         <Link to="/comoHacerUnaMonografia">Cómo hacer una monografia</Link>
@@ -28,6 +28,9 @@ export default function Header(){
                 </li>
                 <li class="dropdown">
                     <button class="dropbtn"><Link to="/nuevosLenguajesJuridicos">Cómo y por qué enseñar Derecho</Link></button>
+                </li>
+                <li class="dropdown">
+                    <button class="dropbtn"><Link to="/">Ented</Link></button>
                 </li>
             </ul>
         </nav>

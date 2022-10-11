@@ -14,32 +14,28 @@ export default function Home(){
                 </h1>
             </section>
             <section id="favourites" class="flex-row">
-                <Link to="/" className="miniature" >
+                <Link to="/comoHacerUnaMonografia" className="miniature" >
                     <Favourite 
                     title="Cómo Hacer una Monografia"
-                    source="img01.jpg"
-                    resume="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."/>
+                    source="img01.jfif"
+                    resume="Con esta guía podrás conocer cuáles son las características de una monografía para la universidad. Además, 
+                    encontrarás algunas recomendaciones y herramientas para escribirla correctamente."/>
                 </Link>
                 <Link to="/bitacoraDelInvestigador" className="miniature" >
                     <Favourite 
                     title="Bitácora del Investigador"
                     source="img02.jfif"
-                    resume="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."/>
+                    resume="A partir de un proyecto de investigación terminado se lleva al lector a otros soportes digitales que conformarán una 
+                    “bitácora del investigador”, que explica los primeros pasos que todo estudiante debería dar para la redacción de un trabajo 
+                    y/o proyecto de investigación"/>
                 </Link>
                 <Link to="/nuevosLenguajesJuridicos" className="miniature" >
                     <Favourite 
                     title="Nuevos Lenguajes Jurídicos"
-                    source="img03.jpg"
-                    resume="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                    Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."/>
+                    source="img03.jfif"
+                    resume="La experiencia en sí se relata en un video corto, pensado para alojarse en un futuro repositorio fílmico de la 
+                    Facultad de Derecho-UBA, en el que puedan registrarse y compartirse propuestas diversas de las y los docentes y ensanchar 
+                    las herramientas para la enseñanza, en línea con las necesidades expuestas."/>
                 </Link>
 
             </section>

@@ -1,16 +1,21 @@
 import React from 'react';
 import { Link } from "react-router-dom";
 import './Sidebar.scss';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faBook, faHome, faGraduationCap, faCalendar, faDesktop, faGlobe } from '@fortawesome/free-solid-svg-icons'
 
 export default function Sidebar(){
     return(
         <aside class="sidebar">
             <nav class="nav">
                 <ul>
-                    <li class="side-item active"><Link to="/">Cómo redactar una monografía</Link></li>
-                    <li class="side-item"><Link to="/">Cómo hacer un proyecto de investigación</Link></li>
-                    <li class="side-item"><Link to="/">Experiencia docente en educación digital</Link></li>
-                    <li class="side-item"><Link to="/bitacoraDelInvestigador">Bitácora del investigador</Link></li>
+                    <li class="side-item active"><Link to="/"><FontAwesomeIcon icon={faHome} color="white"/> Inicio</Link></li>
+                    <li class="side-item"><a href="http://www.derecho.uba.ar/" target="blank"><FontAwesomeIcon icon={faGlobe} color="white"/> Derecho UBA</a></li>
+                    <li class="side-item"><a href="https://www.ented.net/" target="blank"><FontAwesomeIcon icon={faGlobe} color="white"/> Ented</a></li>
+                    <li class="side-item"><a href="http://www.derecho.uba.ar/campusvirtual/" target="blank"><FontAwesomeIcon icon={faBook} color="white" /> Campus Virtual</a></li>
+                    <li class="side-item"><a href="https://3w.derecho.uba.ar/" target="blank"><FontAwesomeIcon icon={faGraduationCap} color="white" /> SIU-Guaraní</a></li>
+                    <li class="side-item"><a href="http://www.derecho.uba.ar/academica/calendario_academico.php" target="blank"><FontAwesomeIcon icon={faCalendar} color="white" /> Calendario Académico</a></li>
+                    <li class="side-item"><a href="http://www.derecho.uba.ar/biblioteca/virtual/" target="blank"><FontAwesomeIcon icon={faDesktop} color="white" /> Biblioteca Virtual</a></li>
                 </ul>
             </nav>
         </aside>

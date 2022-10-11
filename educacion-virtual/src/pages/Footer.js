@@ -10,7 +10,7 @@ export default function Footer(){
             <div class="direccion"></div>
             <div class="links"></div>
             <div class="end"></div>
-            <p><FontAwesomeIcon icon={faFacebook} color="antiquewhite"/> Uba virtual todos los derechos registrados. 2022.</p>
+            <p><FontAwesomeIcon icon={faFacebook} color="white"/> Uba virtual todos los derechos registrados. 2022.</p>
         </footer>
     )
 }
