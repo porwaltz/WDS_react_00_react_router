@@ -15,11 +15,12 @@ export default function Header(){
                     <div class="dropdown-content">
                         <Link to="/produccionDeMateriales">Acerca de esta sección</Link>
                         <Link to="/comoHacerUnaMonografia">Cómo hacer una monografia</Link>
+                        <Link to="/comoEmpezarARedactar">Como empezar a redactar</Link>
                         <Link to="/comoEvitarElPlagio">Cómo evitar el plagio</Link>
                     </div>
                 </li>
                 <li class="dropdown">
-                    <button class="dropbtn">Cómo investigar</button>
+                    <button class="dropbtn">Primer contacto con la investigación</button>
                     <div class="dropdown-content">
                         <Link to="/comoInvestigar">Acerca de esta seccion</Link>
                         <Link to="/investigacionParaEstudiantes">Investigación para estudiantes</Link>
@@ -27,10 +28,10 @@ export default function Header(){
                     </div>
                 </li>
                 <li class="dropdown">
-                    <button class="dropbtn"><Link to="/nuevosLenguajesJuridicos">Cómo y por qué enseñar Derecho</Link></button>
+                    <button class="dropbtn"><Link to="/nuevosLenguajesJuridicos">Videoteca de experiencias docentes</Link></button>
                 </li>
                 <li class="dropdown">
-                    <button class="dropbtn"><Link to="/">Ented</Link></button>
+                    <button class="dropbtn"><Link to="/ented">Ented</Link></button>
                 </li>
             </ul>
         </nav>

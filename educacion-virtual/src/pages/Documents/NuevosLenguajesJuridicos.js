@@ -8,8 +8,7 @@ import { faBook } from '@fortawesome/free-solid-svg-icons'
 export default function NuevosLenguajesJuridicos(){
     return (
         <article id='NuevosLenguajesJuridicos'>
-            <h2>Nuevos lenguajes jurídicos</h2>
-            <h3>¿Cómo y por qué enseñar Derecho -más allá del método de estudio de casos-?</h3>
+            <h2>Investigar en materias codificadas</h2>
             <section>
                 <h3>
                     1.- Introduccion

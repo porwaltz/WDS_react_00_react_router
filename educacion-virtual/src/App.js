@@ -10,7 +10,9 @@ import ComoEvitarElPlagio from './pages/Documents/ComoEvitarElPlagio';
 import ComoInvestigar from './pages/Documents/ComoInvestigar';
 import InvestigacionParaEstudiantes from './pages/Documents/InvestigacionParaEstudiantes';
 import ComoHacerUnaMonografia from './pages/Documents/ComoHacerUnaMonografia';
+import ComoEmpezarARedactar from './pages/Documents/ComoEmpezarARedactar';
 import ProduccionDeMateriales from './pages/Documents/ProduccionDeMateriales';
+import Ented from './pages/Documents/Ented';
 import { Routes, Route } from "react-router-dom";
 
 
@@ -22,13 +24,14 @@ export default function App() {
             <Routes>
                 <Route path="/" element={< Home/>} />
                 <Route path="/produccionDeMateriales" element={< ProduccionDeMateriales/>} />
-                <Route path="comoHacerUnaMonografia" element={<ComoHacerUnaMonografia />} />
-                <Route path="comoHacerUnaMonografia" element={<ComoHacerUnaMonografia />} />
-                <Route path="comoEvitarElPlagio" element={<ComoEvitarElPlagio />} />
-                <Route path="nuevosLenguajesJuridicos" element={<NuevosLenguajesJuridicos />} />
-                <Route path="comoInvestigar" element={<ComoInvestigar />} />
-                <Route path="investigacionParaEstudiantes" element={<InvestigacionParaEstudiantes />} />
-                <Route path="bitacoraDelInvestigador" element={<BitacoraDelInvestigador />} />
+                <Route path="/comoHacerUnaMonografia" element={<ComoHacerUnaMonografia />} />
+                <Route path="/comoEmpezarARedactar" element={<ComoEmpezarARedactar />} />
+                <Route path="/comoEvitarElPlagio" element={<ComoEvitarElPlagio />} />
+                <Route path="/nuevosLenguajesJuridicos" element={<NuevosLenguajesJuridicos />} />
+                <Route path="/comoInvestigar" element={<ComoInvestigar />} />
+                <Route path="/investigacionParaEstudiantes" element={<InvestigacionParaEstudiantes />} />
+                <Route path="/bitacoraDelInvestigador" element={<BitacoraDelInvestigador />} />
+                <Route path="/ented" element={<Ented />} />
             </Routes>
             <Footer />
         </>
