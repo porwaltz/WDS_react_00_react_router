@@ -9,7 +9,7 @@ export default function ComoInvestigar(){
     return (
         <article id="comoInvestigar" class="document">
             <section>
-                <h1>UBACyT, la UBA propone realizar un proyecto que brinde herramientas para la educación virtual 2023</h1>
+                <h1>Primeros pasos en investigación</h1>
             </section>
             <section>
                 <p class="underline subtitle"><span class="bold">Introducción: </span><span class="italic">La motivación de nuestra línea de trabajo</span></p>

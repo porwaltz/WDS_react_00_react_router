@@ -15,20 +15,24 @@ export default function Header(){
                     <div class="dropdown-content">
                         <Link to="/produccionDeMateriales">Acerca de esta sección</Link>
                         <Link to="/comoHacerUnaMonografia">Cómo hacer una monografia</Link>
-                        <Link to="/comoEmpezarARedactar">Como empezar a redactar</Link>
-                        <Link to="/comoEvitarElPlagio">Cómo evitar el plagio</Link>
+                        <Link to="/comoEmpezarARedactar">Cómo empezar a redactar</Link>
                     </div>
                 </li>
                 <li class="dropdown">
-                    <button class="dropbtn">Primer contacto con la investigación</button>
+                    <button class="dropbtn">Primeros pasos en investigación</button>
                     <div class="dropdown-content">
-                        <Link to="/comoInvestigar">Acerca de esta seccion</Link>
+                        <Link to="/comoInvestigar">Acerca de esta sección</Link>
                         <Link to="/investigacionParaEstudiantes">Investigación para estudiantes</Link>
                         <Link to="/bitacoraDelInvestigador">Bitácora del investigador</Link>
                     </div>
                 </li>
                 <li class="dropdown">
-                    <button class="dropbtn"><Link to="/nuevosLenguajesJuridicos">Videoteca de experiencias docentes</Link></button>
+                    <button class="dropbtn">Videoteca de experiencias docentes</button>
+                    <div class="dropdown-content">
+                        <Link to="/nuevosLenguajesJuridicos">Investigar en materias codificadas</Link>
+                        <Link to="/comoEvitarElPlagio">Cómo evitar el plagio</Link>
+                        <Link to="/exploracionDeCulturasJuridicas">Exploración de culturas jurídicas</Link>
+                    </div>
                 </li>
                 <li class="dropdown">
                     <button class="dropbtn"><Link to="/ented">Ented</Link></button>

@@ -11,7 +11,7 @@ export default function NuevosLenguajesJuridicos(){
             <h2>Investigar en materias codificadas</h2>
             <section>
                 <h3>
-                    1.- Introduccion
+                    1.- Introducción
                 </h3>
                 <p>En medios especializados, existe una histórica percepción sobre la insuficiencia de la enseñanza jurídica, ante una formación esencialmente orientada a la promoción de abogados para el litigio. Se afirma que en la carrera de Abogacía existe un discurso pedagógico hegemónico, inspirado en el modelo formalista y en el análisis dogmático de textos legales, orientado a formar egresados con un perfil exclusivamente técnico instrumental, privado de una reflexión crítica sobre las consecuencias sociales, éticas, económicas y políticas del ejercicio profesional.</p>
                 <p>A su vez, la formación jurídica universitaria sigue priorizando la transmisión de conocimientos, en un mundo donde sobra el acceso a sus fuentes, pero aquello que falta es orientación para encontrar e interpretar contenidos relevantes, para articular la experiencia jurídica con los fenómenos sociales y para imaginar el diseño de soluciones, ante los fenómenos extraordinarios y cambiantes que propone la modernidad.</p>

@@ -12,6 +12,8 @@ import InvestigacionParaEstudiantes from './pages/Documents/InvestigacionParaEst
 import ComoHacerUnaMonografia from './pages/Documents/ComoHacerUnaMonografia';
 import ComoEmpezarARedactar from './pages/Documents/ComoEmpezarARedactar';
 import ProduccionDeMateriales from './pages/Documents/ProduccionDeMateriales';
+import ExploracionDeCulturasJuridicas from './pages/Documents/ExploracionDeCulturasJuridicas';
+import CuerpoDocente from './pages/Documents/CuerpoDocente';
 import Ented from './pages/Documents/Ented';
 import { Routes, Route } from "react-router-dom";
 
@@ -23,7 +25,8 @@ export default function App() {
             <Sidebar />
             <Routes>
                 <Route path="/" element={< Home/>} />
-                <Route path="/produccionDeMateriales" element={< ProduccionDeMateriales/>} />
+                <Route path="/produccionDeMateriales" element={<ProduccionDeMateriales/>} />
+                <Route path="/cuerpoDocente" element={<CuerpoDocente/>} />
                 <Route path="/comoHacerUnaMonografia" element={<ComoHacerUnaMonografia />} />
                 <Route path="/comoEmpezarARedactar" element={<ComoEmpezarARedactar />} />
                 <Route path="/comoEvitarElPlagio" element={<ComoEvitarElPlagio />} />
@@ -31,6 +34,7 @@ export default function App() {
                 <Route path="/comoInvestigar" element={<ComoInvestigar />} />
                 <Route path="/investigacionParaEstudiantes" element={<InvestigacionParaEstudiantes />} />
                 <Route path="/bitacoraDelInvestigador" element={<BitacoraDelInvestigador />} />
+                <Route path="/exploracionDeCulturasJuridicas" element={<ExploracionDeCulturasJuridicas />} />
                 <Route path="/ented" element={<Ented />} />
             </Routes>
             <Footer />
