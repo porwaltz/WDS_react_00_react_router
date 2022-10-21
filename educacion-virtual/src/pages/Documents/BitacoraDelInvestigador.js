@@ -11,14 +11,14 @@ export default function BitacoraDelInvestigador(){
                 <h3>
                     En esta sección se muestra un proyecto de investigación terminado hipervinculado a distintos textos y videos. 
                     El fin es brindar, de forma didáctica,&nbsp; 
-                    <a class="underline" href="https://www.youtube.com/watch?v=3Ho4rDCp0rE" target="blank">
+                    <a class="underline" href="https://www.youtube.com/watch?v=3Ho4rDCp0rE" target="_blank">
                         los aspectos esenciales para iniciar una investigación
                     </a>.
                 </h3>
             </section>
             <section>
                 <h3 class="underline">
-                    <a href="https://drive.google.com/file/d/1U0I1-Hcy90o78oJtiP-Rlr4aNgi-l8xD/view?usp=sharing" target="blank">
+                    <a href="https://drive.google.com/file/d/1U0I1-Hcy90o78oJtiP-Rlr4aNgi-l8xD/view?usp=sharing" target="_blank">
                         El acceso a la justicia de personas con discapacidad en el NOA. Una mirada crítica
                     </a>
                 </h3>
@@ -35,7 +35,7 @@ export default function BitacoraDelInvestigador(){
                     &emsp;&emsp;<span class="annotation">Formulamos el problema</span> de la siguiente manera:
                 </p>
                 <p>
-                    &emsp;&emsp;<a class="underline" href="https://drive.google.com/file/d/1bcvmsoJjxppqC32SAuMkCXnLdFE6ApvW/view" target="blank">
+                    &emsp;&emsp;<a class="underline" href="https://drive.google.com/file/d/1bcvmsoJjxppqC32SAuMkCXnLdFE6ApvW/view" target="_blank">
                         ¿Qué factores condicionan la eficacia de las herramientas de acceso a la justicia que el Estado, 
                         tanto nacional cómo provincial, coloca a disposición de las personas con discapacidad, 
                         para el disfrute y defensa de sus derechos en las provincias de Catamarca, La Rioja y Santiago del Estero? 
@@ -168,7 +168,7 @@ export default function BitacoraDelInvestigador(){
             </section>
             <section>
                 <h3 class="underline text-left">
-                    <a class="underline" href="https://drive.google.com/file/d/127rMTqtaRpyX1WIy_bWRrXLsYv85iJYK/view?usp=sharing" target="blank">
+                    <a class="underline" href="https://drive.google.com/file/d/127rMTqtaRpyX1WIy_bWRrXLsYv85iJYK/view?usp=sharing" target="_blank">
                         Actividades y Metodología 
                     </a>
                 </h3>
@@ -176,11 +176,11 @@ export default function BitacoraDelInvestigador(){
                     <span>&emsp;&emsp;</span> <a class="underline" href="https://drive.google.com/file/d/1XddeOggiLFBzwOAK8H1Nd8qcnkTJhqBV/view?usp=sharing">
                         Para la realización del presente estudio
                     </a> se optó por un diseño metodológico descriptivo,&nbsp;
-                    <a class="underline" href="https://drive.google.com/file/d/1XPbyFe-V4m1pAtiJ66N0aA03nHd03zIh/view?usp=sharingg" target="blank">
+                    <a class="underline" href="https://drive.google.com/file/d/1XPbyFe-V4m1pAtiJ66N0aA03nHd03zIh/view?usp=sharingg" target="_blank">
                         cualitativo</a>, de carácter&nbsp;
-                    <a class="underline" href="https://drive.google.com/file/d/1bipi3nkmC0oE09QBB9bQmXSbwU-WnPRQ/view?usp=sharingng" target="blank">
+                    <a class="underline" href="https://drive.google.com/file/d/1bipi3nkmC0oE09QBB9bQmXSbwU-WnPRQ/view?usp=sharingng" target="_blank">
                         comparativo</a>
-                    <a class="underline" href="https://drive.google.com/file/d/1vAoYFAEnaddzR2BHIiw1YJAlV4vIQemT/view?usp=sharing" target="blank">
+                    <a class="underline" href="https://drive.google.com/file/d/1vAoYFAEnaddzR2BHIiw1YJAlV4vIQemT/view?usp=sharing" target="_blank">
                         entre las tres provincias seleccionadas.</a>
                 </p>
                 <p>
@@ -219,10 +219,10 @@ export default function BitacoraDelInvestigador(){
                 <p>
                     &emsp;&emsp;c) se 
                     realizarán <a class="underline" href="https://drive.google.com/file/d/1GW4jfhLZPY5MlhizQclFpily0JfCx0rD/view?usp=sharing" 
-                    target="blank">entrevistas abiertas</a> 
+                    target="_blank">entrevistas abiertas</a> 
                     a los operadores judiciales o de organismos administrativos 
                     sobre <a class="underline" href="https://drive.google.com/file/d/18kcMchZWHQ2HzEofxP3QICBrrVtKW98C/view?usp=sharing" 
-                    target="blank">su capacitacion</a> 
+                    target="_blank">su capacitacion</a> 
                     específica en el tema y sus experiencias con la atención de los derechos de personas con discapacidad. Se prevé al menos 
                     la realización de cinco entrevistas por cada provincia.
                 </p>
@@ -243,7 +243,7 @@ export default function BitacoraDelInvestigador(){
                     &emsp;&emsp;Respecto del cuarto objetivo específico, realizaremos: 
                 </p>
                 <p>
-                    &emsp;&emsp;f) <a class="underline" href="https://drive.google.com/file/d/1220vvQgB1Gfo8nMQIUxLoI9ZtkPY5bnZ/view?usp=sharing" target="blank">encuestas</a> en 
+                    &emsp;&emsp;f) <a class="underline" href="https://drive.google.com/file/d/1220vvQgB1Gfo8nMQIUxLoI9ZtkPY5bnZ/view?usp=sharing" target="_blank">encuestas</a> en 
                     los estudios jurídicos locales en su rol de operadores necesarios en la defensa de los derechos 
                     de las personas con discapacidad, a los efectos de conocer con qué herramientas cuentan para atender a sus necesidades específicas, 
                     analizando sus condiciones edilicias, su formación particular y los recursos específicos con los que cuentan. 
@@ -258,7 +258,7 @@ export default function BitacoraDelInvestigador(){
             </section>
             <section>
                 <h3 class="underline text-left">
-                    <a class="underline" href="https://drive.google.com/file/d/1Tg9Sda29ifF6cy2RY-J8SbxYBe5CWPW8/view?usp=sharing" target="blank">
+                    <a class="underline" href="https://drive.google.com/file/d/1Tg9Sda29ifF6cy2RY-J8SbxYBe5CWPW8/view?usp=sharing" target="_blank">
                         Bibliografía 
                     </a>
                 </h3>
@@ -267,7 +267,7 @@ export default function BitacoraDelInvestigador(){
                     Bristol Center of Studies, 3° edición, 2011 
                 </p>
                 <p>
-                    <a class="underline" href="https://drive.google.com/file/d/1XlYMkHWPrMWzQuvqm2-Gkf6Q7EYOYaT-/view?usp=sharing" target="blank">
+                    <a class="underline" href="https://drive.google.com/file/d/1XlYMkHWPrMWzQuvqm2-Gkf6Q7EYOYaT-/view?usp=sharing" target="_blank">
                     CASAL, JESUS MARIA y otros “Derechos Humanos, Equidad y Acceso a la Justicia”, Ildis, 1°ed, 2005  
                     </a>
                 </p>

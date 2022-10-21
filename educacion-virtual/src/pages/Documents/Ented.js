@@ -10,7 +10,7 @@ export default function Ented(){
         <article id="ented" class="document">
             <h1>ENTED</h1>
             <h3>Exploratorio de Nuevas Tecnologías, Educación y Derecho.</h3>
-            <a href="https://www.ented.net/" target="blank">
+            <a href="https://www.ented.net/" target="_blank">
                 <img src={require("../img/img03.jpg")} alt="Ented"/>
             </a>
             <p>
@@ -19,7 +19,7 @@ export default function Ented(){
             la difusión de novedades y eventos relacionados con estos tres ejes temáticos, y el intercambio y conexión con proyectos afines.
             </p>
             <div>
-                <a id="goto" href="https://www.ented.net/" target="blank"> -> IR AL SITIO</a>
+                <a id="goto" href="https://www.ented.net/" target="_blank"> -> IR AL SITIO</a>
             </div>
         </article>
     )

@@ -62,8 +62,8 @@ export default function ProduccionDeMateriales(){
                     Ejemplo de actividades:
                 </p>
                 <p class="text-left">
-                        - Video sobre plagio: <a href="https://drive.google.com/file/d/1NZeqzbwY-6Ue1P-nymXcOLuASFU6aZ85/view?usp=sharing" target="blank">https://drive.google.com/file/d/1NZeqzbwY-6Ue1P-nymXcOLuASFU6aZ85/view?usp=sharing</a><br/>
-                        - Instructivo de escritura: <a href="https://docs.google.com/document/d/1kBq4Z99mvVMkzXfShhfaI_gx_6lv4Tye/edit?usp=sharing&ouid=101639548558025778615&rtpof=true&sd=true" target="blank">https://docs.google.com/document/d/1kBq4Z99mvVMkzXfShhfaI_gx_6lv4Tye/edit?usp=sharing&ouid=101639548558025778615&rtpof=true&sd=true </a>
+                        - Video sobre plagio: <a href="https://drive.google.com/file/d/1NZeqzbwY-6Ue1P-nymXcOLuASFU6aZ85/view?usp=sharing" target="_blank">https://drive.google.com/file/d/1NZeqzbwY-6Ue1P-nymXcOLuASFU6aZ85/view?usp=sharing</a><br/>
+                        - Instructivo de escritura: <a href="https://docs.google.com/document/d/1kBq4Z99mvVMkzXfShhfaI_gx_6lv4Tye/edit?usp=sharing&ouid=101639548558025778615&rtpof=true&sd=true" target="_blank">https://docs.google.com/document/d/1kBq4Z99mvVMkzXfShhfaI_gx_6lv4Tye/edit?usp=sharing&ouid=101639548558025778615&rtpof=true&sd=true </a>
                 </p>
             </section>
             <section>

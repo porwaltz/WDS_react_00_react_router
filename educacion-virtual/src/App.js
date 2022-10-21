@@ -24,7 +24,10 @@ export default function App() {
             <Header />
             <Sidebar />
             <Routes>
+                <Route path="*" element={< Home/>} />
                 <Route path="/" element={< Home/>} />
+                <Route path="/WDS_react_00_react_router" element={< Home/>} />
+                <Route path="/WDS_react_00_react_router" element={< Home/>} />
                 <Route path="/produccionDeMateriales" element={<ProduccionDeMateriales/>} />
                 <Route path="/cuerpoDocente" element={<CuerpoDocente/>} />
                 <Route path="/comoHacerUnaMonografia" element={<ComoHacerUnaMonografia />} />

@@ -48,7 +48,7 @@ export default function ComoInvestigar(){
             <section >
                 <hr/>
                 <p class="aclaration"><sup>1</sup> Plan de estudios carrera Abogacía, EXP-UBA: 45.501/2018, en <br/>
-                    <a href="http://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" target="blank">
+                    <a href="http://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf" target="_blank">
                         &nbsp;http://www.derecho.uba.ar/academica/carreras_grado/pdf/plan-de-estudios-abogacia.pdf
                     </a> 
                 </p>
@@ -118,7 +118,7 @@ export default function ComoInvestigar(){
                     <span>&#8226;&emsp;</span>CENTRO DE DERECHO DE INVESTIGACIÓN AMBIENTAL - FACULTAD DE DERECHO, 
                     UBA - “GUÍA METODOLÓGICA PARA DISEÑOS DE INVESTIGACIÓN” Cedaf. Facultad de Derecho, UBA. 
                     Disponible al 01/08/22 en: 
-                    <a href="http://www.derecho.uba.ar/institucional/centro-derecho-ambiental/documentos/guia-metodologica-para-disenos-de-investigacion.pdf" target="blank">
+                    <a href="http://www.derecho.uba.ar/institucional/centro-derecho-ambiental/documentos/guia-metodologica-para-disenos-de-investigacion.pdf" target="_blank">
                         &nbsp;http://www.derecho.uba.ar/institucional/centro-derecho-ambiental/documentos/guia-metodologica-para-disenos-de-investigacion.pdf
                     </a>
                 </p>
@@ -129,7 +129,7 @@ export default function ComoInvestigar(){
                 <p>
                     <span>&#8226;&emsp;</span>DERECHO AL DIA, “¿Cómo investigar en la Facultad de Derecho?”  Buenos Aires, Revista Derecho al Día, Año XX - 
                     Edición 357 - 24 de junio de 2021. Disponible al 29/09/2022 en: 
-                    <a href="http://www.derecho.uba.ar/derechoaldia/notas/como-investigar-en-la-facultad-de-derecho/+8356" target="blank">
+                    <a href="http://www.derecho.uba.ar/derechoaldia/notas/como-investigar-en-la-facultad-de-derecho/+8356" target="_blank">
                         &nbsp;http://www.derecho.uba.ar/derechoaldia/notas/como-investigar-en-la-facultad-de-derecho/+8356
                     </a>
                 </p>

@@ -60,7 +60,7 @@ export default function ComoHacerUnaMonografia(props){
             </section>
             <hr/>
             <section>
-                <h3 class="text-left bold underline"><a href="https://www.youtube.com/watch?v=WRXamJHTloM" target="blank">Antes de escribir...</a></h3>
+                <h3 class="text-left bold underline"><a href="https://www.youtube.com/watch?v=WRXamJHTloM" target="_blank">Antes de escribir...</a></h3>
                 <p>
                     - &emsp;Consultá con tu docente todas las dudas que tengas y, sobre todo, confirmá que la hipótesis elegida sea válida.
                 </p>
@@ -69,7 +69,7 @@ export default function ComoHacerUnaMonografia(props){
                     Más sobre cómo empezar a escribir, &nbsp;
                     <a class="bold underline"
                     href="https://docs.google.com/document/d/1wIE06tK7LpoC94c5g_niEUbZ1flg8_9f/edit?usp=sharing&ouid=101639548558025778615&rtpof=true&sd=true"
-                    target="blank">acá</a>.
+                    target="_blank">acá</a>.
                 </p>
             </section>
             <hr/>
@@ -99,7 +99,7 @@ export default function ComoHacerUnaMonografia(props){
                     es importante que sigas las reglas establecidas para ello. Normas de citación.&nbsp;
                     <a class="bold underline"
                     href="https://www.youtube.com/watch?v=vilnzzHSuus"
-                    target="blank">Normas de citación</a>.
+                    target="_blank">Normas de citación</a>.
                 </p>
             </section>
             <hr/>
