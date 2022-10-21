@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/WDS_react_00_react_router/static/css/main.de99ad88.css",
+    "main.js": "/WDS_react_00_react_router/static/js/main.8d6e78bf.js",
+    "static/js/787.6d092969.chunk.js": "/WDS_react_00_react_router/static/js/787.6d092969.chunk.js",
+    "static/media/img02.jfif": "/WDS_react_00_react_router/static/media/img02.8919a04fc72bceba8006.jfif",
+    "static/media/img01.jfif": "/WDS_react_00_react_router/static/media/img01.0623a045af9841f60e16.jfif",
+    "static/media/img02.png": "/WDS_react_00_react_router/static/media/img02.436a5612058602d4c7a9.png",
+    "static/media/imgEnted.jfif": "/WDS_react_00_react_router/static/media/imgEnted.b615f6227d02d2afd958.jfif",
+    "static/media/img01.jpg": "/WDS_react_00_react_router/static/media/img01.6d0afdc201a6936dea5f.jpg",
+    "static/media/img03.jpg": "/WDS_react_00_react_router/static/media/img03.cf34bdebab47851961cf.jpg",
+    "static/media/banner-antique.png": "/WDS_react_00_react_router/static/media/banner-antique.4313f342c2f754a4a30d.png",
+    "static/media/banner-blanco.png": "/WDS_react_00_react_router/static/media/banner-blanco.d99c531f34d476d922f1.png",
+    "static/media/banner-negro.png": "/WDS_react_00_react_router/static/media/banner-negro.1740acb49d47e33abdc6.png",
+    "static/media/img03.jfif": "/WDS_react_00_react_router/static/media/img03.278766690be6a1450c75.jfif",
+    "static/media/img_card_01.webp": "/WDS_react_00_react_router/static/media/img_card_01.4fcf66b2287859ced155.webp",
+    "static/media/img_card_03.webp": "/WDS_react_00_react_router/static/media/img_card_03.32321e305d31d66fb6c4.webp",
+    "static/media/img_card_02.webp": "/WDS_react_00_react_router/static/media/img_card_02.5fd499e131a9ab83e491.webp",
+    "index.html": "/WDS_react_00_react_router/index.html",
+    "main.de99ad88.css.map": "/WDS_react_00_react_router/static/css/main.de99ad88.css.map",
+    "main.8d6e78bf.js.map": "/WDS_react_00_react_router/static/js/main.8d6e78bf.js.map",
+    "787.6d092969.chunk.js.map": "/WDS_react_00_react_router/static/js/787.6d092969.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de99ad88.css",
+    "static/js/main.8d6e78bf.js"
+  ]
+}
