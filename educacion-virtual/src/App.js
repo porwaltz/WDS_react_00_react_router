@@ -27,18 +27,17 @@ export default function App() {
                 <Route path="*" element={< Home/>} />
                 <Route path="/" element={< Home/>} />
                 <Route path="/WDS_react_00_react_router" element={< Home/>} />
-                <Route path="/WDS_react_00_react_router" element={< Home/>} />
-                <Route path="/produccionDeMateriales" element={<ProduccionDeMateriales/>} />
-                <Route path="/cuerpoDocente" element={<CuerpoDocente/>} />
-                <Route path="/comoHacerUnaMonografia" element={<ComoHacerUnaMonografia />} />
-                <Route path="/comoEmpezarARedactar" element={<ComoEmpezarARedactar />} />
-                <Route path="/comoEvitarElPlagio" element={<ComoEvitarElPlagio />} />
-                <Route path="/nuevosLenguajesJuridicos" element={<NuevosLenguajesJuridicos />} />
-                <Route path="/comoInvestigar" element={<ComoInvestigar />} />
-                <Route path="/investigacionParaEstudiantes" element={<InvestigacionParaEstudiantes />} />
-                <Route path="/bitacoraDelInvestigador" element={<BitacoraDelInvestigador />} />
-                <Route path="/exploracionDeCulturasJuridicas" element={<ExploracionDeCulturasJuridicas />} />
-                <Route path="/ented" element={<Ented />} />
+                <Route path="/WDS_react_00_react_router/produccionDeMateriales" element={<ProduccionDeMateriales/>} />
+                <Route path="/WDS_react_00_react_router/cuerpoDocente" element={<CuerpoDocente/>} />
+                <Route path="/WDS_react_00_react_router/comoHacerUnaMonografia" element={<ComoHacerUnaMonografia />} />
+                <Route path="/WDS_react_00_react_router/comoEmpezarARedactar" element={<ComoEmpezarARedactar />} />
+                <Route path="/WDS_react_00_react_router/comoEvitarElPlagio" element={<ComoEvitarElPlagio />} />
+                <Route path="/WDS_react_00_react_router/nuevosLenguajesJuridicos" element={<NuevosLenguajesJuridicos />} />
+                <Route path="/WDS_react_00_react_router/comoInvestigar" element={<ComoInvestigar />} />
+                <Route path="/WDS_react_00_react_router/investigacionParaEstudiantes" element={<InvestigacionParaEstudiantes />} />
+                <Route path="/WDS_react_00_react_router/bitacoraDelInvestigador" element={<BitacoraDelInvestigador />} />
+                <Route path="/WDS_react_00_react_router/exploracionDeCulturasJuridicas" element={<ExploracionDeCulturasJuridicas />} />
+                <Route path="/WDS_react_00_react_router/ented" element={<Ented />} />
             </Routes>
             <Footer />
         </>

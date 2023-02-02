@@ -14,14 +14,14 @@ export default function Home(){
                 </h1>
             </section>
             <section id="favourites" class="flex-row">
-                <Link to="/comoHacerUnaMonografia" className="miniature" >
+                <Link to="/WDS_react_00_react_router/comoHacerUnaMonografia" className="miniature" >
                     <Favourite 
                     title="Cómo Hacer una Monografía"
                     source="img01.jfif"
                     resume="Con esta guía podrás conocer cuáles son las características de una monografía para la universidad. Además, 
                     encontrarás algunas recomendaciones y herramientas para escribirla correctamente."/>
                 </Link>
-                <Link to="/bitacoraDelInvestigador" className="miniature" >
+                <Link to="/WDS_react_00_react_router/bitacoraDelInvestigador" className="miniature" >
                     <Favourite 
                     title="Bitácora del Investigador"
                     source="img02.png"
@@ -29,7 +29,7 @@ export default function Home(){
                     “bitácora del investigador”, que explica los primeros pasos que todo estudiante debería dar para la redacción de un trabajo 
                     y/o proyecto de investigación"/>
                 </Link>
-                <Link to="/nuevosLenguajesJuridicos" className="miniature" >
+                <Link to="/WDS_react_00_react_router/nuevosLenguajesJuridicos" className="miniature" >
                     <Favourite 
                     title="Investigar en materias codificadas"
                     source="img03.jfif"

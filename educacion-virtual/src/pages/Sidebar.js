@@ -9,9 +9,9 @@ export default function Sidebar(){
         <aside class="sidebar">
             <nav class="nav">
                 <ul>
-                    <li class="side-item active"><Link to="/"><FontAwesomeIcon icon={faHome} color="white"/> Inicio</Link></li>
+                    <li class="side-item active"><Link to="/WDS_react_00_react_router"><FontAwesomeIcon icon={faHome} color="white"/> Inicio</Link></li>
                     <li class="side-item"><a href="http://www.derecho.uba.ar/" target="_blank"><FontAwesomeIcon icon={faGlobe} color="white"/> Derecho UBA</a></li>
-                    <li class="side-item"><Link to="/cuerpoDocente"><FontAwesomeIcon icon={faGraduationCap} color="white" /> Cuerpo Docente</Link></li>                    
+                    <li class="side-item"><Link to="/WDS_react_00_react_router/cuerpoDocente"><FontAwesomeIcon icon={faGraduationCap} color="white" /> Cuerpo Docente</Link></li>                    
                     <li class="side-item"><a href="https://www.ented.net/" target="_blank"><FontAwesomeIcon icon={faGlobe} color="white"/> Ented</a></li>
                     <li class="side-item"><a href="http://www.derecho.uba.ar/campusvirtual/" target="_blank"><FontAwesomeIcon icon={faBook} color="white" /> Campus Virtual</a></li>
                     <li class="side-item"><a href="https://3w.derecho.uba.ar/" target="_blank"><FontAwesomeIcon icon={faGraduationCap} color="white" /> SIU-Guaraní</a></li>
