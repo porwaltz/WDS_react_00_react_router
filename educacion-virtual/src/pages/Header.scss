@@ -52,6 +52,8 @@ li{
     color: white;
 }
 
+
+
 .dropbtn {
     background-color: teal;
     color: white;
@@ -90,8 +92,14 @@ display: block;
 animation: fadeIn 0.4s;
 }
 
+
 .dropdown:hover .dropbtn {
 background-color: rgb(0, 112, 112)
+}
+
+
+.entedLink{
+    background-color: transparent !important;
 }
 
 /*ANIMATIONS*/

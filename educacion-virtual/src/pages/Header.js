@@ -7,11 +7,12 @@ export default function Header(){
     return(
         <nav id='header'>
             <div class="image-container">
-                <img src={require('./img/banner-blanco.png')} alt="banner"></img>
+                {/* <img src={require('./img/banner-blanco.png')} alt="banner"></img> */}
+                <h1>Derecho Virtual</h1>
             </div>
             <ul>
                 <li class="dropdown">
-                    <button class="dropbtn">Cómo escribir A textos académicos</button>
+                    <button class="dropbtn">Cómo escribir textos académicos</button>
                     <div class="dropdown-content">
                         <Link to="/WDS_react_00_react_router/produccionDeMateriales">Acerca de esta sección</Link>
                         <Link to="/WDS_react_00_react_router/comoHacerUnaMonografia">Cómo hacer una monografia</Link>
@@ -35,7 +36,7 @@ export default function Header(){
                     </div>
                 </li>
                 <li class="dropdown">
-                    <button class="dropbtn"><Link to="/WDS_react_00_react_router/ented">Ented</Link></button>
+                    <button class="dropbtn ented-b" ><Link to="/WDS_react_00_react_router/ented" className={"entedLink"}>Ented</Link></button>
                 </li>
             </ul>
         </nav>
