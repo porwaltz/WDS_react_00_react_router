@@ -11,7 +11,7 @@ export default function Header(){
             </div>
             <ul>
                 <li class="dropdown">
-                    <button class="dropbtn">Cómo escribir textos académicos</button>
+                    <button class="dropbtn">Cómo escribir A textos académicos</button>
                     <div class="dropdown-content">
                         <Link to="/produccionDeMateriales">Acerca de esta sección</Link>
                         <Link to="/comoHacerUnaMonografia">Cómo hacer una monografia</Link>
