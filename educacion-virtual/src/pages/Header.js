@@ -36,7 +36,7 @@ export default function Header(){
                     </div>
                 </li>
                 <li class="dropdown">
-                    <button class="dropbtn ented-b" ><Link to="/WDS_react_00_react_router/ented" className={"entedLink"}>Ented</Link></button>
+                    <button class="dropbtn" ><Link to="/WDS_react_00_react_router/ented" className={"entedLink"}>Ented</Link></button>
                 </li>
             </ul>
         </nav>
